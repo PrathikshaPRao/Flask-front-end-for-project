@@ -1,0 +1,10 @@
+<center>
+    <h1>ENTER PATIENT MEDICAL DATA</h1>
+<form action="{{ url_for("patientData")}}" method="post">
+    <label for="occOfPain">Occurance of Pain:</label>
+    <input type="number" id="occOfPain" name="occOfPain" placeholder="Occurance of Pain"><br><br>
+    <label for="bloodReportStat">Blood Report:</label>
+    <input type="text" id="bloodReportStat" name="bloodReportStat" placeholder="Blood Report"><br><br>
+    <button type="submit">Submit</button>
+</form>
+</center>
