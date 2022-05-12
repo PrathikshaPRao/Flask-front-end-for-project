@@ -1,5 +1,6 @@
 # Flask-front-end-for-project
 Step 1: Clone or Download this repository
+
 Step 2: Run using pycharm or any text editor
 Step 3: import flask from pip install
 Step 4:Import the necessary packages that are required
